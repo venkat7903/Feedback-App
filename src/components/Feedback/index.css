@@ -1,0 +1,55 @@
+/* Write your CSS code here. */
+.app-container {
+  min-height: 100vh;
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.sub-app-container {
+  background: #fff;
+  width: 80%;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 500px;
+  text-align: center;
+}
+
+.title {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.emojis {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji {
+  text-align: center;
+  width: 30%;
+}
+
+.emoji-img {
+  width: 50%;
+}
+
+.love-img {
+  width: 60px;
+}
+
+.thank-title {
+  font-size: 24px;
+}
+
+.feedback-desc {
+  color: #0f172a;
+  font-weight: normal;
+}
