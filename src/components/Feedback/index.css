@@ -53,3 +53,10 @@
   color: #0f172a;
   font-weight: normal;
 }
+
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
